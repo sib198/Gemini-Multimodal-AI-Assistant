@@ -1,0 +1,9 @@
+google-generativeai
+opencv-python
+SpeechRecognition
+pyttsx3
+python-dotenv
+Pillow
+pyaudio
+SpeechRecognition
+google-generativeai
