@@ -36,14 +36,14 @@ project/
 
 ---
 
-## 🔧 Installation & Setup
+### 🔧 Installation & Setup
 
-### 1️⃣ Create and activate a virtual environment
+## 1️⃣ Create and activate a virtual environment
 - python -m venv venv
 - Windows: venv\Scripts\activate
 - Mac/Linux: source venv/bin/activate
 
-### 2️⃣ Install project dependencies
+## 2️⃣ Install project dependencies
 pip install -r requirements.txt
 
 ### 3️⃣ Add your Gemini API key
